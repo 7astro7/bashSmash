@@ -1,0 +1,224 @@
+,,adjusted_yards_per_attempt,assists_on_tackles,completed_passes,extra_points_made,field_goals_made,fumbles_forced,fumbles_recovered,fumbles_recovered_for_touchdown,games,height,interceptions,interceptions_returned_for_touchdown,interceptions_thrown,kickoff_return_touchdowns,name,other_touchdowns,pass_attempts,passes_defended,passing_completion,passing_touchdowns,passing_yards,passing_yards_per_attempt,player_id,plays_from_scrimmage,points,position,punt_return_touchdowns,quarterback_rating,receiving_touchdowns,receiving_yards,receiving_yards_per_reception,receptions,rush_attempts,rush_touchdowns,rush_yards,rush_yards_per_attempt,rushing_and_receiving_touchdowns,sacks,safeties,season,solo_tackles,tackles_for_loss,team_abbreviation,total_tackles,total_touchdowns,two_point_conversions,weight,yards_from_scrimmage,yards_from_scrimmage_per_play,yards_recovered_from_fumble,yards_returned_from_interceptions,yards_returned_per_interception,year
+cody-clements-1,2014,7.8,,183,0,0,,,,11.0,6-2,,,8,0,Cody Clements,,276,,66.3,14,2227,8.1,cody-clements-1,91,24,QB,0,145.0,0,0,,0,91,4,160,1.8,4,,,2014,,,UAB,,4,,200,160,1.8,,,,
+cody-clements-1,2015,5.7,,171,0,0,,,,12.0,6-2,,,15,0,Cody Clements,,324,,52.8,13,2272,7.0,cody-clements-1,85,24,QB,0,115.7,1,7,7.0,1,84,3,95,1.1,4,,,2015,,,South Alabama,,4,,200,102,1.2,,,,SR
+cody-clements-1,Career,6.7,,354,0,0,,,,,6-2,,,23,0,Cody Clements,,600,,59.0,27,4499,7.5,cody-clements-1,176,48,QB,0,129.2,1,7,7.0,1,175,7,255,1.5,8,,,Career,,,Overall,,8,,200,262,1.5,,,,
+jeremiah-briscoe-1,2014,5.1,,17,,,,,,6.0,6-3,,,4,,Jeremiah Briscoe,,47,,36.2,3,361,7.7,jeremiah-briscoe-1,9,,QB,,104.7,0,0,,0,9,0,7,0.8,0,,,2014,,,UAB,,,,210,7,0.8,,,,SO
+jeremiah-briscoe-1,Career,5.1,,17,,,,,,,6-3,,,4,,Jeremiah Briscoe,,47,,36.2,3,361,7.7,jeremiah-briscoe-1,9,,QB,,104.7,0,0,,0,9,0,7,0.8,0,,,Career,,,UAB,,,,210,7,0.8,,,,
+myles-mckee-1,2014,,,,,,,,,2.0,6-3,,,,,Myles McKee,,,,,,,,myles-mckee-1,2,,QB,,,0,0,,0,2,0,-22,-11.0,0,,,2014,,,UAB,,,,205,-22,-11.0,,,,SR
+myles-mckee-1,Career,,,,,,,,,,6-3,,,,,Myles McKee,,,,,,,,myles-mckee-1,2,,QB,,,0,0,,0,2,0,-22,-11.0,0,,,Career,,,UAB,,,,205,-22,-11.0,,,,
+jordan-howard-1,2013,,1,0,0,0,0,0,,11.0,5-10,0,0,0,0,Jordan Howard,,0,0,,0,0,,jordan-howard-1,149,18,RB,0,,1,83,20.8,4,145,2,881,6.1,3,0.0,,2013,0,0.0,UAB,1,3,,209,964,6.5,,0,,FR
+jordan-howard-1,2014,0.0,0,1,0,0,0,0,,12.0,5-10,0,0,0,0,Jordan Howard,,1,0,100.0,0,0,0.0,jordan-howard-1,315,84,RB,0,100.0,1,72,8.0,9,306,13,1587,5.2,14,0.0,,2014,0,0.0,UAB,0,14,,209,1659,5.3,,0,,SO
+jordan-howard-1,2015,,0,0,0,0,0,0,,9.0,5-10,0,0,0,0,Jordan Howard,,0,0,,0,0,,jordan-howard-1,207,60,RB,0,,1,106,9.6,11,196,9,1213,6.2,10,0.0,,2015,0,0.0,Indiana,0,10,,209,1319,6.4,,0,,JR
+jordan-howard-1,Career,0.0,1,1,0,0,0,0,,,5-10,0,0,0,0,Jordan Howard,,1,0,100.0,0,0,0.0,jordan-howard-1,671,162,RB,0,100.0,3,261,10.9,24,647,24,3681,5.7,27,0.0,,Career,0,0.0,Overall,1,27,,209,3942,5.9,,0,,
+dj-vinson-1,2011,,2,,,,0,0,,12.0,5-10,,,,0,D.J. Vinson,,,0,,,,,dj-vinson-1,15,12,WR,,,2,97,8.8,11,4,0,3,0.8,2,0.0,,2011,1,0.0,UAB,3,2,,205,100,6.7,,,,FR
+dj-vinson-1,2014,,0,0.0,0.0,0.0,0,0,,12.0,5-10,0.0,0.0,0.0,0,D.J. Vinson,,0.0,0,,0.0,0.0,,dj-vinson-1,181,60,RB,0.0,,1,65,4.3,15,166,9,670,4.0,10,0.0,,2014,0,0.0,UAB,0,10,,205,735,4.1,,0.0,,SR
+dj-vinson-1,2015,7.0,0,1.0,0.0,0.0,0,0,,11.0,5-10,0.0,0.0,0.0,0,D.J. Vinson,,1.0,0,100.0,0.0,7.0,7.0,dj-vinson-1,26,6,WR,0.0,158.8,0,193,8.4,23,3,1,5,1.7,1,0.0,,2015,4,0.0,South Alabama,4,1,,205,198,7.6,,0.0,,SR
+dj-vinson-1,Career,7.0,2,1.0,0.0,0.0,0,0,,,5-10,0.0,0.0,0.0,0,D.J. Vinson,,1.0,0,100.0,0.0,7.0,7.0,dj-vinson-1,222,78,WR,0.0,158.8,3,355,7.2,49,173,10,678,3.9,13,0.0,,Career,5,0.0,Overall,7,13,,205,1033,4.7,,0.0,,
+jawon-arrington-1,2014,,1,,0,0,0,0,,5.0,5-11,0,0,,0,Ja'Won Arrington,,,0,,,,,jawon-arrington-1,13,6,RB,0,,0,0,,0,13,1,42,3.2,1,0.0,,2014,1,0.0,UAB,2,1,,215,42,3.2,,0,,JR
+jawon-arrington-1,Career,,1,,0,0,0,0,,,5-11,0,0,,0,Ja'Won Arrington,,,0,,,,,jawon-arrington-1,13,6,RB,0,,0,0,,0,13,1,42,3.2,1,0.0,,Career,1,0.0,UAB,2,1,,215,42,3.2,,0,,
+marcus-reaves-1,2014,,0,,,,0,0,,2.0,6-2,0,0,,,Marcus Reaves,,,0,,,,,marcus-reaves-1,8,,RB,,,0,0,,0,8,0,47,5.9,0,0.0,,2014,1,0.0,UAB,1,,,190,47,5.9,,0,,SO
+marcus-reaves-1,Career,,0,,,,0,0,,,6-2,0,0,,,Marcus Reaves,,,0,,,,,marcus-reaves-1,8,,RB,,,0,0,,0,8,0,47,5.9,0,0.0,,Career,1,0.0,UAB,1,,,190,47,5.9,,0,,
+tamar-mickens-1,2014,,1,,,,0,0,,1.0,5-10,0,0,,,Tamar Mickens,,,0,,,,,tamar-mickens-1,,,RB,,,,,,,,,,,,0.0,,2014,1,0.0,UAB,2,,,200,,,,0,,SR
+tamar-mickens-1,Career,,1,,,,0,0,,,5-10,0,0,,,Tamar Mickens,,,0,,,,,tamar-mickens-1,,,RB,,,,,,,,,,,,0.0,,Career,1,0.0,UAB,2,,,200,,,,0,,
+josh-magee-1,2014,,0,0,0,0,0,0,,11.0,5-11,0,0,0,0,Josh Magee,,0,0,,0,0,,josh-magee-1,21,18,WR,0,,3,342,19.0,18,3,0,12,4.0,3,0.0,,2014,0,0.0,UAB,0,3,,175,354,16.9,,0,,SO
+josh-magee-1,2015,0.0,0,0,0,0,0,0,,12.0,5-11,0,0,0,0,Josh Magee,,1,0,0.0,0,0,0.0,josh-magee-1,24,18,WR,0,0.0,3,504,21.9,23,1,0,-2,-2.0,3,0.0,,2015,1,0.0,South Alabama,1,3,,175,502,20.9,,0,,JR
+josh-magee-1,2016,,0,0,0,0,0,0,,11.0,5-11,0,0,0,0,Josh Magee,,0,0,,0,0,,josh-magee-1,49,30,WR,0,,5,822,16.8,49,0,0,0,,5,0.0,,2016,4,0.0,South Alabama,4,5,,175,822,16.8,,0,,SR
+josh-magee-1,Career,0.0,0,0,0,0,0,0,,,5-11,0,0,0,0,Josh Magee,,1,0,0.0,0,0,0.0,josh-magee-1,94,66,WR,0,0.0,11,1668,18.5,90,4,0,10,2.5,11,0.0,,Career,5,0.0,Overall,5,11,,175,1678,17.9,,0,,
+maudrecus-humphrey-1,2010,,0,,,,0,1,,13.0,6-3,,,,,Maudrecus Humphrey,,,0,,,,,maudrecus-humphrey-1,0,,WR,,,,,,,,,,,0,0.0,,2010,1,0.0,Arkansas,1,,,185,0,,,,,FR
+maudrecus-humphrey-1,2011,,0,,,,0,0,,11.0,6-3,,,,,Maudrecus Humphrey,,,0,,,,,maudrecus-humphrey-1,1,,WR,,,0.0,9.0,9.0,1.0,,,,,0,0.0,,2011,0,0.0,Arkansas,0,,,185,9,9.0,,,,SO
+maudrecus-humphrey-1,2014,,0,,,,0,0,,11.0,6-3,0.0,0.0,,,Maudrecus Humphrey,,,0,,,,,maudrecus-humphrey-1,26,,WR,,,0.0,281.0,11.7,24.0,2.0,0.0,1.0,0.5,0,0.0,,2014,3,0.0,UAB,3,,,185,282,10.8,,0.0,,SR
+maudrecus-humphrey-1,Career,,0,,,,0,1,,,6-3,0.0,0.0,,,Maudrecus Humphrey,,,0,,,,,maudrecus-humphrey-1,27,,WR,,,0.0,290.0,11.6,25.0,2.0,0.0,1.0,0.5,0,0.0,,Career,4,0.0,Overall,4,,,185,291,10.8,,0.0,,
+jamari-staples-1,2013,,0,,0,0,0,0,,9.0,6-4,0,0,,0,Jamari Staples,,,0,,,,,jamari-staples-1,31,24,WR,0,,4,458,14.8,31,0,0,0,,4,0.0,,2013,0,0.0,UAB,0,4,,195,458,14.8,,0,,FR
+jamari-staples-1,2014,,0,,0,0,0,0,,5.0,6-4,0,0,,0,Jamari Staples,,,0,,,,,jamari-staples-1,10,6,WR,0,,1,190,21.1,9,1,0,3,3.0,1,0.0,,2014,0,0.0,UAB,0,1,,195,193,19.3,,0,,SO
+jamari-staples-1,2015,,0,,0,0,0,0,,9.0,6-4,0,0,,0,Jamari Staples,,,0,,,,,jamari-staples-1,37,18,WR,0,,3,638,17.2,37,0,0,0,,3,0.0,,2015,0,0.0,Louisville,0,3,,195,638,17.2,,0,,JR
+jamari-staples-1,2016,,0,,0,0,0,0,,11.0,6-4,0,0,,0,Jamari Staples,,,0,,,,,jamari-staples-1,36,12,WR,0,,2,615,17.1,36,0,0,0,,2,0.0,,2016,1,0.0,Louisville,1,2,,195,615,17.1,,0,,SR
+jamari-staples-1,Career,,0,,0,0,0,0,,,6-4,0,0,,0,Jamari Staples,,,0,,,,,jamari-staples-1,114,60,WR,0,,10,1901,16.8,113,1,0,3,3.0,10,0.0,,Career,1,0.0,Overall,1,10,,195,1904,16.7,,0,,
+darius-powell-2,2012,,8,,0,0,0,0,0.0,,5-10,,,,0,Darius Powell,,,3,,,,,darius-powell-2,0,0,DB,0,,0,0,,0,0,0,0,,0,0.0,0.0,2012,10,0.0,UAB,18,0,0.0,181,0,,0.0,,,FR
+darius-powell-2,2013,,0,,0,0,0,0,,9.0,5-10,0.0,0.0,,0,Darius Powell,,,0,,,,,darius-powell-2,15,18,CB,0,,2,174,13.4,13,2,1,28,14.0,3,0.0,,2013,0,0.0,UAB,0,3,,181,202,13.5,,0.0,,SO
+darius-powell-2,2014,,0,,0,0,0,0,,6.0,5-10,0.0,0.0,,0,Darius Powell,,,0,,,,,darius-powell-2,9,0,WR,0,,0,48,6.0,8,1,0,2,2.0,0,0.0,,2014,0,0.0,UAB,0,0,,181,50,5.6,,0.0,,JR
+darius-powell-2,Career,,8,,0,0,0,0,0.0,,5-10,0.0,0.0,,0,Darius Powell,,,3,,,,,darius-powell-2,24,18,WR,0,,2,222,10.6,21,3,1,30,10.0,3,0.0,0.0,Career,10,0.0,UAB,18,3,0.0,181,252,10.5,0.0,0.0,,
+nyiakki-height-1,2012,,7,,0,0,0,0,0.0,,6-1,,,,0,Nyiakki Height,,,0,,,,,nyiakki-height-1,0,0,DB,0,,0,0,,0,0,0,0,,0,0.0,0.0,2012,8,0.0,UAB,15,0,0.0,190,0,,0.0,,,FR
+nyiakki-height-1,2013,,0,,0,0,0,0,,5.0,6-1,0.0,0.0,,0,Nyiakki Height,,,0,,,,,nyiakki-height-1,7,0,WR,0,,0,113,16.1,7,0,0,0,,0,0.0,,2013,0,0.0,UAB,0,0,,190,113,16.1,,0.0,,SO
+nyiakki-height-1,2014,,2,,0,0,1,0,,11.0,6-1,0.0,0.0,,0,Nyiakki Height,,,0,,,,,nyiakki-height-1,17,6,WR,0,,1,136,8.0,17,0,0,0,,1,0.0,,2014,5,0.0,UAB,7,1,,190,136,8.0,,0.0,,JR
+nyiakki-height-1,2015,,0,,0,0,0,0,,4.0,6-1,0.0,0.0,,0,Nyiakki Height,,,0,,,,,nyiakki-height-1,9,0,WR,0,,0,122,15.3,8,1,0,-3,-3.0,0,1.0,,2015,1,1.0,Georgia State,1,0,,190,119,13.2,,0.0,,SR
+nyiakki-height-1,Career,,9,,0,0,1,0,0.0,,6-1,0.0,0.0,,0,Nyiakki Height,,,0,,,,,nyiakki-height-1,33,6,WR,0,,1,371,11.6,32,1,0,-3,-3.0,1,1.0,0.0,Career,14,1.0,Overall,23,1,0.0,190,368,11.2,0.0,0.0,,
+quincy-perdue-1,2014,,0,,0,0,0,0,,3.0,6-3,0,0,,0,Quincy Perdue,,,0,,,,,quincy-perdue-1,2,6,WR,0,,1,82,41.0,2,0,0,0,,1,0.0,,2014,1,0.0,UAB,1,1,,210,82,41.0,,0,,FR
+quincy-perdue-1,2015,,0,,0,0,0,0,,1.0,6-3,0,0,,0,Quincy Perdue,,,0,,,,,quincy-perdue-1,0,0,WR,0,,0,0,,0,0,0,0,,0,0.0,,2015,0,0.0,Kansas,0,0,,210,0,,,0,,SO
+quincy-perdue-1,Career,,0,,0,0,0,0,,,6-3,0,0,,0,Quincy Perdue,,,0,,,,,quincy-perdue-1,2,6,WR,0,,1,82,41.0,2,0,0,0,,1,0.0,,Career,1,0.0,Overall,1,1,,210,82,41.0,,0,,
+rodarius-houston-1,2014,,,,,,,,,2.0,5-10,,,,,Rodarius Houston,,,,,,,,rodarius-houston-1,1,,WR,,,0,3,3.0,1,0,0,0,,0,,,2014,,,UAB,,,,161,3,3.0,,,,SO
+rodarius-houston-1,Career,,,,,,,,,,5-10,,,,,Rodarius Houston,,,,,,,,rodarius-houston-1,1,,WR,,,0,3,3.0,1,0,0,0,,0,,,Career,,,UAB,,,,161,3,3.0,,,,
+collin-lisa-1,2014,,1,0,0,0,0,0,,2.0,5-10,0,0,0,0,Collin Lisa,,0,0,,0,0,,collin-lisa-1,1,0,WR,0,,0,9,9.0,1,0,0,0,,0,0.0,,2014,0,0.0,UAB,1,0,,166,9,9.0,,0,,FR
+collin-lisa-1,2015,,0,0,0,0,0,0,,11.0,5-10,0,0,0,0,Collin Lisa,,0,0,,0,0,,collin-lisa-1,31,12,WR,0,,2,325,10.5,31,0,0,0,,2,0.0,,2015,0,0.0,Buffalo,0,2,,166,325,10.5,,0,,SO
+collin-lisa-1,2017,3.0,0,1,0,0,0,0,,12.0,5-10,0,0,0,0,Collin Lisa,,1,0,100.0,0,3,3.0,collin-lisa-1,34,6,WR,0,125.2,1,439,13.3,33,1,0,0,0.0,1,0.0,,2017,0,0.0,UAB,0,1,,166,439,12.9,,0,,JR
+collin-lisa-1,2018,,0,0,0,0,0,0,,13.0,5-10,0,0,0,0,Collin Lisa,,0,0,,0,0,,collin-lisa-1,33,6,WR,0,,1,462,14.0,33,0,0,0,,1,0.0,,2018,1,0.0,UAB,1,1,,166,462,14.0,,0,,SR
+collin-lisa-1,Career,3.0,1,1,0,0,0,0,,,5-10,0,0,0,0,Collin Lisa,,1,0,100.0,0,3,3.0,collin-lisa-1,99,24,WR,0,125.2,4,1235,12.6,98,1,0,0,0.0,4,0.0,,Career,1,0.0,Overall,2,4,,166,1235,12.5,,0,,
+nolen-smith-1,2010,,0,,,,0,0,,12.0,6-3,,,,,Nolen Smith,,,0,,,,,nolen-smith-1,1,0,WR,,,0,5,5.0,1,,,,,0,0.0,,2010,0,0.0,UAB,0,0,,205,5,5.0,,,,FR
+nolen-smith-1,2011,,0,,,,0,0,,12.0,6-3,,,,,Nolen Smith,,,0,,,,,nolen-smith-1,19,12,WR,,,2,273,14.4,19,,,,,2,0.0,,2011,0,0.0,UAB,0,2,,205,273,14.4,,,,SO
+nolen-smith-1,2013,,0,0.0,0.0,0.0,0,1,,3.0,6-3,0.0,0.0,0.0,0.0,Nolen Smith,,0.0,0,,0.0,0.0,,nolen-smith-1,2,0,TE,0.0,,0,27,13.5,2,0.0,0.0,0.0,,0,0.0,,2013,0,0.0,UAB,0,0,,205,27,13.5,,0.0,,JR
+nolen-smith-1,2014,18.5,0,1.0,0.0,0.0,0,0,,5.0,6-3,0.0,0.0,0.0,0.0,Nolen Smith,,2.0,0,50.0,0.0,37.0,18.5,nolen-smith-1,2,0,TE,0.0,205.4,0,13,6.5,2,0.0,0.0,0.0,,0,0.0,,2014,1,0.0,UAB,1,0,,205,13,6.5,,0.0,,SR
+nolen-smith-1,Career,18.5,0,1.0,0.0,0.0,0,1,,,6-3,0.0,0.0,0.0,0.0,Nolen Smith,,2.0,0,50.0,0.0,37.0,18.5,nolen-smith-1,24,12,TE,0.0,205.4,2,318,13.3,24,0.0,0.0,0.0,,2,0.0,,Career,1,0.0,UAB,1,2,,205,318,13.3,,0.0,,
+kennard-backman-1,2011,,0.0,,,,0.0,0.0,,12.0,6-3,,,,,Kennard Backman,,,0.0,,,,,kennard-backman-1,6,0,TE,,,0,43,7.2,6,,,,,0,0.0,,2011,0.0,0.0,UAB,0.0,0,,258,43,7.2,,,,FR
+kennard-backman-1,2012,,,,,,,,,12.0,6-3,,,,,Kennard Backman,,,,,,,,kennard-backman-1,23,24,TE,,,4,235,10.2,23,,,,,4,,,2012,,,UAB,,4,,258,235,10.2,,,,SO
+kennard-backman-1,2013,,1.0,,0.0,0.0,0.0,0.0,,11.0,6-3,0.0,0.0,,0.0,Kennard Backman,,,0.0,,,,,kennard-backman-1,28,12,TE,0.0,,2,302,10.8,28,0.0,0.0,0.0,,2,0.0,,2013,1.0,0.0,UAB,2.0,2,,258,302,10.8,,0.0,,JR
+kennard-backman-1,2014,,0.0,,0.0,0.0,0.0,0.0,,12.0,6-3,0.0,0.0,,0.0,Kennard Backman,,,0.0,,,,,kennard-backman-1,39,18,TE,0.0,,3,399,10.2,39,0.0,0.0,0.0,,3,0.0,,2014,1.0,0.0,UAB,1.0,3,,258,399,10.2,,0.0,,SR
+kennard-backman-1,Career,,1.0,,0.0,0.0,0.0,0.0,,,6-3,0.0,0.0,,0.0,Kennard Backman,,,0.0,,,,,kennard-backman-1,96,54,TE,0.0,,9,979,10.2,96,0.0,0.0,0.0,,9,0.0,,Career,2.0,0.0,UAB,3.0,9,,258,979,10.2,,0.0,,
+gerald-everett-1,2014,,0,0,0,0,0,0,,7.0,6-4,0,0,0,0,Gerald Everett,,0,0,,0,0,,gerald-everett-1,17,6,TE,0,,1,292,17.2,17,0,0,0,,1,0.0,,2014,0,0.0,UAB,0,1,,240,292,17.2,,0,,JR
+gerald-everett-1,2015,27.0,0,1,0,0,0,0,,12.0,6-4,0,0,0,0,Gerald Everett,,1,0,100.0,1,7,7.0,gerald-everett-1,49,72,TE,0,488.8,8,575,14.0,41,8,4,7,0.9,12,0.0,,2015,0,0.0,South Alabama,0,12,,240,582,11.9,,0,,SR
+gerald-everett-1,2016,,1,0,0,0,0,0,,12.0,6-4,0,0,0,0,Gerald Everett,,0,1,,0,0,,gerald-everett-1,49,24,TE,0,,4,717,14.6,49,0,0,0,,4,0.0,,2016,0,0.0,South Alabama,1,4,,240,717,14.6,,0,,SR
+gerald-everett-1,Career,27.0,1,1,0,0,0,0,,,6-4,0,0,0,0,Gerald Everett,,1,1,100.0,1,7,7.0,gerald-everett-1,115,102,TE,0,488.8,13,1584,14.8,107,8,4,7,0.9,17,0.0,,Career,0,0.0,Overall,1,17,,240,1591,13.8,,0,,
+tristan-henderson-1,2013,,0,,0,0,0,0,,6.0,6-4,0,0,,0,Tristan Henderson,,,0,,,,,tristan-henderson-1,5,0,TE,0,,0,40,8.0,5,0,0,0,,0,0.0,,2013,1,0.0,UAB,1,0,,265,40,8.0,,0,,JR
+tristan-henderson-1,2014,,0,,0,0,0,0,,4.0,6-4,0,0,,0,Tristan Henderson,,,0,,,,,tristan-henderson-1,6,6,TE,0,,1,50,8.3,6,0,0,0,,1,0.0,,2014,0,0.0,UAB,0,1,,265,50,8.3,,0,,SR
+tristan-henderson-1,Career,,0,,0,0,0,0,,,6-4,0,0,,0,Tristan Henderson,,,0,,,,,tristan-henderson-1,11,6,TE,0,,1,90,8.2,11,0,0,0,,1,0.0,,Career,1,0.0,UAB,1,1,,265,90,8.2,,0,,
+kyle-sappington-1,2014,,0.0,,,,0.0,0.0,,3.0,6-4,0.0,0.0,,,Kyle Sappington,,,0.0,,,,,kyle-sappington-1,,,TE,,,,,,,,,,,,0.0,,2014,3.0,0.0,UAB,3.0,,,230,,,,0.0,,SO
+kyle-sappington-1,2015,,,,,,,,,,6-4,,,,,Kyle Sappington,,,,,,,,kyle-sappington-1,,,TE,,,,,,,,,,,,,,2015,,,South Alabama,,,,230,,,,,,JR
+kyle-sappington-1,Career,,0.0,,,,0.0,0.0,,,6-4,0.0,0.0,,,Kyle Sappington,,,0.0,,,,,kyle-sappington-1,,,TE,,,,,,,,,,,,0.0,,Career,3.0,0.0,Overall,3.0,,,230,,,,0.0,,
+cameron-blankenship-1,2014,,0,,,,0,0,,2.0,6-5,0,0,,,Cameron Blankenship,,,0,,,,,cameron-blankenship-1,,,OL,,,,,,,,,,,,0.0,,2014,2,0.0,UAB,2,,,305,,,,0,,JR
+cameron-blankenship-1,2015,,0,,,,0,0,,1.0,6-5,0,0,,,Cameron Blankenship,,,0,,,,,cameron-blankenship-1,,,OL,,,,,,,,,,,,0.0,,2015,1,0.0,South Alabama,1,,,305,,,,0,,SR
+cameron-blankenship-1,Career,,0,,,,0,0,,,6-5,0,0,,,Cameron Blankenship,,,0,,,,,cameron-blankenship-1,,,OL,,,,,,,,,,,,0.0,,Career,3,0.0,Overall,3,,,305,,,,0,,
+roscoe-byrd-1,2012,,0.0,,,,0.0,0.0,0.0,,6-0,,,,,Roscoe Byrd,,,0.0,,,,,roscoe-byrd-1,,,DL,,,,,,,,,,,,0.0,,2012,1.0,0.0,UAB,1.0,,,230,,,0.0,,,FR
+roscoe-byrd-1,2014,,0.0,,,,0.0,0.0,,2.0,6-0,0.0,0.0,,,Roscoe Byrd,,,0.0,,,,,roscoe-byrd-1,,,OL,,,,,,,,,,,,0.0,,2014,2.0,0.0,UAB,2.0,,,230,,,,0.0,,JR
+roscoe-byrd-1,2015,,,,,,,,,,6-0,,,,,Roscoe Byrd,,,,,,,,roscoe-byrd-1,,,OL,,,,,,,,,,,,,,2015,,,Georgia Southern,,,,230,,,,,,SR
+roscoe-byrd-1,Career,,0.0,,,,0.0,0.0,0.0,,6-0,0.0,0.0,,,Roscoe Byrd,,,0.0,,,,,roscoe-byrd-1,,,OL,,,,,,,,,,,,0.0,,Career,3.0,0.0,Overall,3.0,,,230,,,0.0,0.0,,
+uneik-crumbley-1,2013,,1,,,,0,0,,5.0,6-3,0,0,,,Uneik Crumbley,,,1,,,,,uneik-crumbley-1,,,OL,,,,,,,,,,,,2.0,,2013,10,2.0,UAB,11,,,327,,,,0,,SO
+uneik-crumbley-1,2014,,1,,,,0,0,,1.0,6-3,0,0,,,Uneik Crumbley,,,0,,,,,uneik-crumbley-1,,,OL,,,,,,,,,,,,0.0,,2014,0,0.5,UAB,1,,,327,,,,0,,JR
+uneik-crumbley-1,Career,,2,,,,0,0,,,6-3,0,0,,,Uneik Crumbley,,,1,,,,,uneik-crumbley-1,,,OL,,,,,,,,,,,,2.0,,Career,10,2.5,UAB,12,,,327,,,,0,,
+ty-long-1,2011,,0,,24,16,0.0,0.0,,12.0,6-2,,,,,Ty Long,,,0.0,,,,,ty-long-1,,72,K,,,,,,,,,,,,0.0,,2011,2,0.0,UAB,2,0,,205,,,,,,FR
+ty-long-1,2012,,1,,39,14,,,,12.0,6-2,,,,,Ty Long,,,,,,,,ty-long-1,,81,K,,,,,,,,,,,,0.0,,2012,3,0.0,UAB,4,0,,205,,,,,,SO
+ty-long-1,2013,,1,,35,16,0.0,0.0,,12.0,6-2,0.0,0.0,,0.0,Ty Long,,,0.0,,,,,ty-long-1,,83,K,0.0,,,,,,,,,,,0.0,,2013,0,0.0,UAB,1,0,,205,,,,0.0,,JR
+ty-long-1,2014,,0,,47,13,0.0,0.0,,12.0,6-2,0.0,0.0,,0.0,Ty Long,,,0.0,,,,,ty-long-1,,86,K,0.0,,,,,,,,,,,0.0,,2014,0,0.0,UAB,0,0,,205,,,,0.0,,SR
+ty-long-1,Career,,2,,145,59,0.0,0.0,,,6-2,0.0,0.0,,0.0,Ty Long,,,0.0,,,,,ty-long-1,,322,K,0.0,,,,,,,,,,,0.0,,Career,5,0.0,UAB,7,0,,205,,,,0.0,,
+kingsley-ejike-1,2014,,1,,,,0,0,,1.0,6-3,0,0,,,Kingsley Ejike,,,0,,,,,kingsley-ejike-1,,,DL,,,,,,,,,,,,0.0,,2014,0,0.0,UAB,1,,,230,,,,0,,SO
+kingsley-ejike-1,Career,,1,,,,0,0,,,6-3,0,0,,,Kingsley Ejike,,,0,,,,,kingsley-ejike-1,,,DL,,,,,,,,,,,,0.0,,Career,0,0.0,UAB,1,,,230,,,,0,,
+parrish-huddlestone-1,2014,,7,,,,0,0,,9.0,6-0,0,0,,,Parrish Huddlestone,,,0,,,,,parrish-huddlestone-1,,,DL,,,,,,,,,,,,2.0,,2014,9,3.0,UAB,16,,,295,,,,0,,SO
+parrish-huddlestone-1,Career,,7,,,,0,0,,,6-0,0,0,,,Parrish Huddlestone,,,0,,,,,parrish-huddlestone-1,,,DL,,,,,,,,,,,,2.0,,Career,9,3.0,UAB,16,,,295,,,,0,,
+robert-mondle-1,2014,,2,,,,0,0,,7.0,6-2,0,0,,,Robert Mondle,,,3,,,,,robert-mondle-1,,,DL,,,,,,,,,,,,0.0,,2014,6,0.0,UAB,8,,,300,,,,0,,JR
+robert-mondle-1,Career,,2,,,,0,0,,,6-2,0,0,,,Robert Mondle,,,3,,,,,robert-mondle-1,,,DL,,,,,,,,,,,,0.0,,Career,6,0.0,UAB,8,,,300,,,,0,,
+chris-walton-1,2011,,6,,,,1,0,,10.0,6-3,0.0,0.0,,,Chris Walton,,,0,,,,,chris-walton-1,,,DL,,,,,,,,,,,,0.0,,2011,6,2.0,UAB,12,,,260,,,,0.0,,FR
+chris-walton-1,2012,,9,,,,0,0,0.0,,6-3,,,,,Chris Walton,,,0,,,,,chris-walton-1,,,DL,,,,,,,,,,,,1.5,,2012,12,7.5,UAB,21,,,260,,,0.0,,,SO
+chris-walton-1,2013,,5,,,,0,0,,5.0,6-3,0.0,0.0,,,Chris Walton,,,0,,,,,chris-walton-1,,,DE,,,,,,,,,,,,0.0,,2013,7,2.5,UAB,12,,,260,,,,0.0,,JR
+chris-walton-1,2014,,15,,,,0,0,,12.0,6-3,0.0,0.0,,,Chris Walton,,,0,,,,,chris-walton-1,,,DL,,,,,,,,,,,,2.0,,2014,20,6.5,UAB,35,,,260,,,,0.0,,SR
+chris-walton-1,Career,,35,,,,1,0,0.0,,6-3,0.0,0.0,,,Chris Walton,,,0,,,,,chris-walton-1,,,DL,,,,,,,,,,,,3.5,,Career,45,18.5,UAB,80,,,260,,,0.0,0.0,,
+james-banks-4,2014,,2,,,,0,1,,6.0,6-1,0,0,,,James Banks,,,1,,,,,james-banks-4,,,LB,,,,,,,,,,,,1.0,,2014,7,1.0,UAB,9,,,225,,,,0,,SO
+james-banks-4,Career,,2,,,,0,1,,,6-1,0,0,,,James Banks,,,1,,,,,james-banks-4,,,LB,,,,,,,,,,,,1.0,,Career,7,1.0,UAB,9,,,225,,,,0,,
+tevin-crews-1,2012,,6,,,,0,1,0.0,,6-2,,,,,Tevin Crews,,,1,,,,,tevin-crews-1,,,DB,,,,,,,,,,,,0.0,,2012,9,0.5,UAB,15,,,230,,,11.0,,,FR
+tevin-crews-1,2013,,5,,,,1,0,,4.0,6-2,0.0,0.0,,,Tevin Crews,,,0,,,,,tevin-crews-1,,,LB,,,,,,,,,,,,0.0,,2013,7,1.0,UAB,12,,,230,,,,0.0,,SO
+tevin-crews-1,2014,,10,,,,1,0,,9.0,6-2,0.0,0.0,,,Tevin Crews,,,1,,,,,tevin-crews-1,,,LB,,,,,,,,,,,,2.0,,2014,22,3.0,UAB,32,,,230,,,,0.0,,JR
+tevin-crews-1,2017,,43,,,,2,0,,13.0,6-2,1.0,0.0,,,Tevin Crews,,,3,,,,,tevin-crews-1,,,LB,,,,,,,,,,,,3.0,,2017,59,12.0,UAB,102,,,230,,,,17.0,17.0,SR
+tevin-crews-1,Career,,64,,,,4,1,0.0,,6-2,1.0,0.0,,,Tevin Crews,,,5,,,,,tevin-crews-1,,,LB,,,,,,,,,,,,5.0,,Career,97,16.5,UAB,161,,,230,,,11.0,17.0,17.0,
+jake-ganus-1,2012,,27,,,,,,,12.0,6-2,1,0,,,Jake Ganus,,,,,,,,jake-ganus-1,,,DB,,,,,,,,,,,,0.0,,2012,36,3.5,UAB,63,,,233,,,,0,0.0,FR
+jake-ganus-1,2013,,36,,,,1.0,0.0,,12.0,6-2,1,0,,,Jake Ganus,,,1.0,,,,,jake-ganus-1,,,LB,,,,,,,,,,,,0.0,,2013,57,8.0,UAB,93,,,233,,,,0,0.0,SO
+jake-ganus-1,2014,,22,,,,1.0,1.0,,12.0,6-2,0,0,,,Jake Ganus,,,1.0,,,,,jake-ganus-1,,,LB,,,,,,,,,,,,6.0,,2014,48,17.5,UAB,70,,,233,,,,0,,JR
+jake-ganus-1,2015,,58,,,,0.0,1.0,,13.0,6-2,2,0,,,Jake Ganus,,,0.0,,,,,jake-ganus-1,,,LB,,,,,,,,,,,,1.0,,2015,43,5.0,Georgia,101,,,233,,,,0,0.0,SR
+jake-ganus-1,Career,,143,,,,2.0,2.0,,,6-2,4,0,,,Jake Ganus,,,2.0,,,,,jake-ganus-1,,,LB,,,,,,,,,,,,7.0,,Career,184,34.0,Overall,327,,,233,,,,0,0.0,
+harris-gaston-1,2009,,6,,,,0,0,0.0,4.0,6-2,,,,,Harris Gaston,,,0,,,,,harris-gaston-1,,,LB,,,,,,,,,,,,0.0,,2009,3,0.0,Auburn,9,,,235,,,0.0,,,FR
+harris-gaston-1,2010,,0,,,,0,0,,9.0,6-2,0.0,0.0,,,Harris Gaston,,,0,,,,,harris-gaston-1,,,LB,,,,,,,,,,,,0.0,,2010,3,0.0,Auburn,3,,,235,,,,0.0,,FR
+harris-gaston-1,2011,,3,,,,0,0,,11.0,6-2,0.0,0.0,,,Harris Gaston,,,0,,,,,harris-gaston-1,,,LB,,,,,,,,,,,,0.0,,2011,5,0.0,Auburn,8,,,235,,,,0.0,,SO
+harris-gaston-1,2014,,14,,,,3,0,,11.0,6-2,0.0,0.0,,,Harris Gaston,,,2,,,,,harris-gaston-1,,,LB,,,,,,,,,,,,1.0,,2014,27,4.5,UAB,41,,,235,,,,0.0,,SR
+harris-gaston-1,Career,,23,,,,3,0,0.0,,6-2,0.0,0.0,,,Harris Gaston,,,2,,,,,harris-gaston-1,,,LB,,,,,,,,,,,,1.0,,Career,38,4.5,Overall,61,,,235,,,0.0,0.0,,
+kalen-jackson-1,2014,,1,,,,0,1,,2.0,6-1,1,0,,,Kalen Jackson,,,2,,,,,kalen-jackson-1,,,LB,,,,,,,,,,,,1.0,,2014,6,1.0,UAB,7,,,210,,,,0,0.0,JR
+kalen-jackson-1,2015,,25,,,,1,0,,11.0,6-1,2,0,,,Kalen Jackson,,,1,,,,,kalen-jackson-1,,,LB,,,,,,,,,,,,0.0,,2015,47,8.5,South Alabama,72,,,210,,,,10,5.0,JR
+kalen-jackson-1,2016,,16,,,,2,1,,7.0,6-1,0,0,,,Kalen Jackson,,,1,,,,,kalen-jackson-1,,,S,,,,,,,,,,,,1.0,,2016,32,8.0,South Alabama,48,,,210,,,,0,,SR
+kalen-jackson-1,Career,,42,,,,3,2,,,6-1,3,0,,,Kalen Jackson,,,4,,,,,kalen-jackson-1,,,S,,,,,,,,,,,,2.0,,Career,85,17.5,Overall,127,,,210,,,,10,3.3,
+shaq-jones-1,2012,,13,,,,0,0,0.0,,6-3,,,,,Shaq Jones,,,0,,,,,shaq-jones-1,,,LB,,,,,,,,,,,,0.0,,2012,17,0.5,UAB,30,,,250,,,0.0,,,FR
+shaq-jones-1,2013,,13,,,,0,0,,10.0,6-3,0.0,0.0,,,Shaq Jones,,,1,,,,,shaq-jones-1,,,LB,,,,,,,,,,,,0.0,,2013,20,2.0,UAB,33,,,250,,,,0.0,,SO
+shaq-jones-1,2014,,22,,,,0,1,,11.0,6-3,1.0,0.0,,,Shaq Jones,,,3,,,,,shaq-jones-1,,,LB,,,,,,,,,,,,3.0,,2014,28,13.0,UAB,50,,,250,,,,4.0,4.0,JR
+shaq-jones-1,2017,,18,,,,1,0,,13.0,6-3,0.0,0.0,,,Shaq Jones,,,2,,,,,shaq-jones-1,,,DL,,,,,,,,,,,,3.0,,2017,39,13.0,UAB,57,,,250,,,,0.0,,SR
+shaq-jones-1,Career,,66,,,,1,1,0.0,,6-3,1.0,0.0,,,Shaq Jones,,,6,,,,,shaq-jones-1,,,DL,,,,,,,,,,,,6.0,,Career,104,28.5,UAB,170,,,250,,,0.0,4.0,4.0,
+alonso-mcgee-1,2014,,12,,,,1,1,,10.0,6-1,0,0,,,Alonso McGee,,,1,,,,,alonso-mcgee-1,,,LB,,,,,,,,,,,,1.0,,2014,30,5.0,UAB,42,,,230,,,,0,,JR
+alonso-mcgee-1,2015,,28,,,,0,0,,13.0,6-1,0,0,,,Alonso McGee,,,0,,,,,alonso-mcgee-1,,,LB,,,,,,,,,,,,2.5,,2015,40,11.5,Georgia State,68,,,230,,,,0,,JR
+alonso-mcgee-1,2016,,34,,,,1,2,,12.0,6-1,0,0,,,Alonso McGee,,,1,,,,,alonso-mcgee-1,,,LB,,,,,,,,,,,,2.0,,2016,63,4.0,Georgia State,97,,,230,,,,0,,SR
+alonso-mcgee-1,Career,,74,,,,2,3,,,6-1,0,0,,,Alonso McGee,,,2,,,,,alonso-mcgee-1,,,LB,,,,,,,,,,,,5.5,,Career,133,20.5,Overall,207,,,230,,,,0,,
+john-robinson-3,2014,,0.0,,,,0.0,0.0,,2.0,6-1,0.0,0.0,,,John Robinson,,,0.0,,,,,john-robinson-3,,,LB,,,,,,,,,,,,0.0,,2014,3.0,0.0,UAB,3.0,,,225,,,,0.0,,FR
+john-robinson-3,2015,,,,,,,,,,6-1,,,,,John Robinson,,,,,,,,john-robinson-3,,,LB,,,,,,,,,,,,,,2015,,,South Alabama,,,,225,,,,,,SO
+john-robinson-3,2016,,0.0,,,,0.0,0.0,,3.0,6-1,0.0,0.0,,,John Robinson,,,0.0,,,,,john-robinson-3,,,LB,,,,,,,,,,,,0.0,,2016,3.0,0.0,South Alabama,3.0,,,225,,,,0.0,,JR
+john-robinson-3,Career,,0.0,,,,0.0,0.0,,,6-1,0.0,0.0,,,John Robinson,,,0.0,,,,,john-robinson-3,,,LB,,,,,,,,,,,,0.0,,Career,6.0,0.0,Overall,6.0,,,225,,,,0.0,,
+derek-slaughter-1,2009,,15,,,,1.0,0.0,0.0,12.0,5-11,0,0,,,Derek Slaughter,,,0.0,,,,,derek-slaughter-1,,,DL,,,,,,,,,,,,3.5,,2009,18,6.5,UAB,33,,,210,,,0.0,0,,JR
+derek-slaughter-1,2012,,9,,,,,,,12.0,5-11,1,0,,,Derek Slaughter,,,,,,,,derek-slaughter-1,,,LB,,,,,,,,,,,,1.0,,2012,19,1.0,UAB,28,,,210,,,,0,0.0,FR
+derek-slaughter-1,2013,,8,,,,0.0,1.0,,9.0,5-11,0,0,,,Derek Slaughter,,,1.0,,,,,derek-slaughter-1,,,LB,,,,,,,,,,,,0.0,,2013,18,3.0,UAB,26,,,210,,,,0,,SO
+derek-slaughter-1,2014,,9,,,,0.0,0.0,,8.0,5-11,0,0,,,Derek Slaughter,,,2.0,,,,,derek-slaughter-1,,,LB,,,,,,,,,,,,1.0,,2014,12,3.5,UAB,21,,,210,,,,0,,JR
+derek-slaughter-1,Career,,41,,,,1.0,1.0,0.0,,5-11,1,0,,,Derek Slaughter,,,3.0,,,,,derek-slaughter-1,,,LB,,,,,,,,,,,,5.5,,Career,67,14.0,UAB,108,,,210,,,0.0,0,0.0,
+hunter-mullins-1,2011,,0,,,,0.0,0.0,,1.0,6-3,,,,,Hunter Mullins,,,0.0,,,,,hunter-mullins-1,0,,P,,,,,,,,,,,0,0.0,,2011,0,0.0,UAB,0,,,195,0,,,,,FR
+hunter-mullins-1,2012,,1,,,,,,,12.0,6-3,,,,,Hunter Mullins,,,,,,,,hunter-mullins-1,1,,P,,,,,,,1.0,0.0,-1.0,-1.0,0,0.0,,2012,0,0.0,UAB,1,,,195,-1,-1.0,,,,SO
+hunter-mullins-1,2013,,0,0.0,,,0.0,0.0,,12.0,6-3,0.0,0.0,0.0,,Hunter Mullins,,0.0,0.0,,0.0,0.0,,hunter-mullins-1,0,,P,,,0.0,0.0,,0.0,0.0,0.0,0.0,,0,0.0,,2013,1,0.0,UAB,1,,,195,0,,,0.0,,JR
+hunter-mullins-1,2014,12.0,0,1.0,,,0.0,0.0,,12.0,6-3,0.0,0.0,0.0,,Hunter Mullins,,1.0,0.0,100.0,0.0,12.0,12.0,hunter-mullins-1,0,,P,,200.8,0.0,0.0,,0.0,0.0,0.0,0.0,,0,0.0,,2014,0,0.0,UAB,0,,,195,0,,,0.0,,SR
+hunter-mullins-1,Career,12.0,1,1.0,,,0.0,0.0,,,6-3,0.0,0.0,0.0,,Hunter Mullins,,1.0,0.0,100.0,0.0,12.0,12.0,hunter-mullins-1,1,,P,,200.8,0.0,0.0,,0.0,1.0,0.0,-1.0,-1.0,0,0.0,,Career,1,0.0,UAB,2,,,195,-1,-1.0,,0.0,,
+bobby-baker-1,2014,,4,,,,0,0,,3.0,6-2,1,0,,,Bobby Baker,,,0,,,,,bobby-baker-1,,,S,,,,,,,,,,,,0.0,,2014,15,1.0,UAB,19,,,200,,,,13,13.0,JR
+bobby-baker-1,2015,,23,,,,1,3,,13.0,6-2,3,0,,,Bobby Baker,,,5,,,,,bobby-baker-1,,,S,,,,,,,,,,,,0.0,,2015,53,1.0,Georgia State,76,,,200,,,,17,5.7,JR
+bobby-baker-1,2016,,25,,,,0,2,,12.0,6-2,0,0,,,Bobby Baker,,,3,,,,,bobby-baker-1,,,S,,,,,,,,,,,,0.0,,2016,57,0.5,Georgia State,82,,,200,,,,0,,SR
+bobby-baker-1,Career,,52,,,,1,5,,,6-2,4,0,,,Bobby Baker,,,8,,,,,bobby-baker-1,,,S,,,,,,,,,,,,0.0,,Career,125,2.5,Overall,177,,,200,,,,30,7.5,
+kelton-brackett-1,2012,,12,,,,,,,12.0,5-11,,,,,Kelton Brackett,,,,,,,,kelton-brackett-1,,,DB,,,,,,,,,,,,0.0,,2012,18,1.0,UAB,30,,,200,,,,,,FR
+kelton-brackett-1,2013,,6,,,,1.0,0.0,,10.0,5-11,1.0,0.0,,,Kelton Brackett,,,6.0,,,,,kelton-brackett-1,,,CB,,,,,,,,,,,,0.0,,2013,25,2.0,UAB,31,,,200,,,,9.0,9.0,SO
+kelton-brackett-1,2014,,0,,,,0.0,0.0,,3.0,5-11,0.0,0.0,,,Kelton Brackett,,,1.0,,,,,kelton-brackett-1,,,CB,,,,,,,,,,,,0.0,,2014,3,0.0,UAB,3,,,200,,,,0.0,,JR
+kelton-brackett-1,2015,,15,,,,0.0,1.0,,7.0,5-11,2.0,0.0,,,Kelton Brackett,,,3.0,,,,,kelton-brackett-1,,,DB,,,,,,,,,,,,0.0,,2015,14,0.0,Massachusetts,29,,,200,,,,3.0,1.5,SR
+kelton-brackett-1,Career,,33,,,,1.0,1.0,,,5-11,3.0,0.0,,,Kelton Brackett,,,10.0,,,,,kelton-brackett-1,,,DB,,,,,,,,,,,,0.0,,Career,60,3.0,Overall,93,,,200,,,,12.0,4.0,
+devon-brown-2,2012,,0,,,,0,0,0.0,,5-9,,,,,Devon Brown,,,0,,,,,devon-brown-2,,,DB,,,,,,,,,,,,0.0,,2012,1,0.0,UAB,1,,,175,,,0.0,,,FR
+devon-brown-2,2013,,3,,,,0,0,,5.0,5-9,0.0,0.0,,,Devon Brown,,,1,,,,,devon-brown-2,,,CB,,,,,,,,,,,,0.0,,2013,3,0.0,UAB,6,,,175,,,,0.0,,SO
+devon-brown-2,2014,,4,,,,0,0,,7.0,5-9,0.0,0.0,,,Devon Brown,,,2,,,,,devon-brown-2,,,CB,,,,,,,,,,,,0.0,,2014,7,0.0,UAB,11,,,175,,,,0.0,,JR
+devon-brown-2,2015,,0,,,,0,0,,3.0,5-9,0.0,0.0,,,Devon Brown,,,1,,,,,devon-brown-2,,,CB,,,,,,,,,,,,0.0,,2015,2,0.0,Old Dominion,2,,,175,,,,0.0,,JR
+devon-brown-2,2016,,0,,,,0,0,,7.0,5-9,0.0,0.0,,,Devon Brown,,,0,,,,,devon-brown-2,,,WR,,,,,,,,,,,,0.0,,2016,0,0.0,Old Dominion,0,,,175,,,,0.0,,FR
+devon-brown-2,Career,,7,,,,0,0,0.0,,5-9,0.0,0.0,,,Devon Brown,,,4,,,,,devon-brown-2,,,WR,,,,,,,,,,,,0.0,,Career,13,0.0,Overall,20,,,175,,,0.0,0.0,,
+desman-carter-1,2014,,15,,,,0,0,,11.0,6-2,0,0,,,Desman Carter,,,1,,,,,desman-carter-1,,,S,,,,,,,,,,,,0.0,,2014,25,2.0,UAB,40,,,205,,,,0,,JR
+desman-carter-1,Career,,15,,,,0,0,,,6-2,0,0,,,Desman Carter,,,1,,,,,desman-carter-1,,,S,,,,,,,,,,,,0.0,,Career,25,2.0,UAB,40,,,205,,,,0,,
+jay-davis-2,2010,,0,,,,0.0,0.0,,1.0,6-1,,,,,Jay Davis,,,0.0,,,,,jay-davis-2,1,0,WR,,,0,5,5.0,1,,,,,0,0.0,,2010,0,0.0,UAB,0,0,,194,5,5.0,,,,FR
+jay-davis-2,2011,,1,,,,0.0,0.0,,11.0,6-1,,,,,Jay Davis,,,0.0,,,,,jay-davis-2,21,6,WR,,,1,174,9.7,18,3.0,0.0,4.0,1.3,1,0.0,,2011,1,0.0,UAB,2,1,,194,178,8.5,,,,FR
+jay-davis-2,2012,,2,,,,,,,11.0,6-1,,,,,Jay Davis,,,,,,,,jay-davis-2,23,12,WR,,,2,277,12.0,23,,,,,2,0.0,,2012,0,0.0,UAB,2,2,,194,277,12.0,,,,SO
+jay-davis-2,2013,,3,,0.0,0.0,0.0,0.0,,2.0,6-1,0.0,0.0,,0.0,Jay Davis,,,0.0,,,,,jay-davis-2,0,0,S,0.0,,0,0,,0,0.0,0.0,0.0,,0,0.0,,2013,1,0.0,UAB,4,0,,194,0,,,0.0,,JR
+jay-davis-2,2014,,5,,0.0,0.0,0.0,0.0,,6.0,6-1,0.0,0.0,,0.0,Jay Davis,,,0.0,,,,,jay-davis-2,0,0,S,0.0,,0,0,,0,0.0,0.0,0.0,,0,0.0,,2014,24,0.0,UAB,29,0,,194,0,,,0.0,,SR
+jay-davis-2,Career,,11,,0.0,0.0,0.0,0.0,,,6-1,0.0,0.0,,0.0,Jay Davis,,,0.0,,,,,jay-davis-2,45,18,S,0.0,,3,456,10.9,42,3.0,0.0,4.0,1.3,3,0.0,,Career,26,0.0,UAB,37,3,,194,460,10.2,,0.0,,
+lamarcus-farmer-1,2012,,22,,,,,,,12.0,6-0,,,,,Lamarcus Farmer,,,,,,,,lamarcus-farmer-1,0,0,DB,0,,,,,,,,,,0,0.0,,2012,28,4.0,UAB,50,0,,173,0,,,,,FR
+lamarcus-farmer-1,2013,,14,,0.0,0.0,1.0,1.0,,7.0,6-0,1.0,0.0,,0.0,Lamarcus Farmer,,,0.0,,,,,lamarcus-farmer-1,0,0,CB,0,,0.0,0.0,,0.0,0.0,0.0,0.0,,0,1.0,,2013,20,4.0,UAB,34,0,,173,0,,,17.0,17.0,SO
+lamarcus-farmer-1,2014,,10,,0.0,0.0,0.0,1.0,,8.0,6-0,2.0,1.0,,0.0,Lamarcus Farmer,,,3.0,,,,,lamarcus-farmer-1,0,6,CB,0,,0.0,0.0,,0.0,0.0,0.0,0.0,,0,0.0,,2014,15,0.5,UAB,25,1,,173,0,,,70.0,35.0,JR
+lamarcus-farmer-1,2015,,13,,0.0,0.0,0.0,0.0,,11.0,6-0,3.0,1.0,,0.0,Lamarcus Farmer,,,6.0,,,,,lamarcus-farmer-1,1,6,CB,0,,0.0,6.0,6.0,1.0,0.0,0.0,0.0,,0,0.0,,2015,36,4.0,Troy,49,1,,173,6,6.0,,71.0,23.7,FR
+lamarcus-farmer-1,Career,,59,,0.0,0.0,1.0,2.0,,,6-0,6.0,2.0,,0.0,Lamarcus Farmer,,,9.0,,,,,lamarcus-farmer-1,1,12,CB,0,,0.0,6.0,6.0,1.0,0.0,0.0,0.0,,0,1.0,,Career,99,12.5,Overall,158,2,,173,6,6.0,,158.0,26.3,
+trey-grissett-1,2011,,7,,,,0,0,,9.0,6-5,0.0,0.0,,,Trey Grissett,,,0,,,,,trey-grissett-1,,,DL,,,,,,,,,,,,0.0,,2011,2,0.5,UAB,9,,,260,,,,0.0,,FR
+trey-grissett-1,2012,,11,,,,0,0,0.0,,6-5,,,,,Trey Grissett,,,0,,,,,trey-grissett-1,,,DL,,,,,,,,,,,,1.0,,2012,2,1.5,UAB,13,,,260,,,0.0,,,SO
+trey-grissett-1,2013,,12,,,,1,0,,12.0,6-5,0.0,0.0,,,Trey Grissett,,,1,,,,,trey-grissett-1,,,DE,,,,,,,,,,,,0.5,,2013,17,3.0,UAB,29,,,260,,,,0.0,,JR
+trey-grissett-1,2014,,0,,,,0,0,,2.0,6-5,0.0,0.0,,,Trey Grissett,,,0,,,,,trey-grissett-1,,,DE,,,,,,,,,,,,0.0,,2014,2,0.0,UAB,2,,,260,,,,0.0,,SR
+trey-grissett-1,Career,,30,,,,1,0,0.0,,6-5,0.0,0.0,,,Trey Grissett,,,1,,,,,trey-grissett-1,,,DE,,,,,,,,,,,,1.5,,Career,23,5.0,UAB,53,,,260,,,0.0,0.0,,
+nick-jackson-1,2013,,14,,,,0,0,,11.0,6-2,0,0,,,Nick Jackson,,,0,,,,,nick-jackson-1,,,S,,,,,,,,,,,,0.0,,2013,19,1.0,UAB,33,,,205,,,,0,,FR
+nick-jackson-1,2014,,0,,,,0,0,,2.0,6-2,0,0,,,Nick Jackson,,,0,,,,,nick-jackson-1,,,S,,,,,,,,,,,,0.0,,2014,2,0.0,UAB,2,,,205,,,,0,,SO
+nick-jackson-1,Career,,14,,,,0,0,,,6-2,0,0,,,Nick Jackson,,,0,,,,,nick-jackson-1,,,S,,,,,,,,,,,,0.0,,Career,21,1.0,UAB,35,,,205,,,,0,,
+jimmy-jean-2,2013,,7,,,,0,0,,11.0,6-3,2,0,,,Jimmy Jean,,,3,,,,,jimmy-jean-2,1,,CB,,,0,0,,0,1,0,-8,-8.0,0,0.0,,2013,25,1.0,UAB,32,,,180,-8,-8.0,,0,0.0,JR
+jimmy-jean-2,2014,,11,,,,1,2,,10.0,6-3,1,0,,,Jimmy Jean,,,6,,,,,jimmy-jean-2,0,,CB,,,0,0,,0,0,0,0,,0,0.0,,2014,33,0.0,UAB,44,,,180,0,,,0,0.0,SR
+jimmy-jean-2,Career,,18,,,,1,2,,,6-3,3,0,,,Jimmy Jean,,,9,,,,,jimmy-jean-2,1,,CB,,,0,0,,0,1,0,-8,-8.0,0,0.0,,Career,58,1.0,UAB,76,,,180,-8,-8.0,,0,0.0,
+calvin-jones-5,2011,,18,,,,0.0,0.0,,10.0,5-10,0.0,0.0,,,Calvin Jones,,,0.0,,,,,calvin-jones-5,,,DB,,,,,,,,,,,,0.0,,2011,18,1.0,UAB,36,,,187,,,,0.0,,SO
+calvin-jones-5,2012,,32,,,,,,,11.0,5-10,,,,,Calvin Jones,,,,,,,,calvin-jones-5,,,DB,,,,,,,,,,,,0.5,,2012,39,2.5,UAB,71,,,187,,,,,,JR
+calvin-jones-5,2013,,3,,,,0.0,0.0,,2.0,5-10,0.0,0.0,,,Calvin Jones,,,0.0,,,,,calvin-jones-5,,,S,,,,,,,,,,,,0.0,,2013,6,0.0,UAB,9,,,187,,,,0.0,,SR
+calvin-jones-5,2014,,5,,,,0.0,0.0,,6.0,5-10,1.0,0.0,,,Calvin Jones,,,2.0,,,,,calvin-jones-5,,,S,,,,,,,,,,,,0.0,,2014,13,0.0,UAB,18,,,187,,,,0.0,0.0,SR
+calvin-jones-5,Career,,58,,,,0.0,0.0,,,5-10,1.0,0.0,,,Calvin Jones,,,2.0,,,,,calvin-jones-5,,,S,,,,,,,,,,,,0.5,,Career,76,3.5,UAB,134,,,187,,,,0.0,0.0,
+greg-maclin-1,2013,,3,,,,1,1,,5.0,6-3,0,0,,,Greg Maclin,,,0,,,,,greg-maclin-1,,,S,,,,,,,,,,,,1.0,,2013,13,1.0,UAB,16,,,185,,,,0,,FR
+greg-maclin-1,2014,,3,,,,0,0,,7.0,6-3,0,0,,,Greg Maclin,,,0,,,,,greg-maclin-1,,,S,,,,,,,,,,,,0.0,,2014,12,0.0,UAB,15,,,185,,,,0,,SO
+greg-maclin-1,Career,,6,,,,1,1,,,6-3,0,0,,,Greg Maclin,,,0,,,,,greg-maclin-1,,,S,,,,,,,,,,,,1.0,,Career,25,1.0,UAB,31,,,185,,,,0,,
+tj-mccollum-1,2014,,1,,,,0,0,,5.0,6-3,0,0,,,T.J. McCollum,,,0,,,,,tj-mccollum-1,,,S,,,,,,,,,,,,0.0,,2014,6,0.0,UAB,7,,,235,,,,0,,SO
+tj-mccollum-1,2015,,37,,,,1,1,,14.0,6-3,1,0,,,T.J. McCollum,,,3,,,,,tj-mccollum-1,,,LB,,,,,,,,,,,,3.0,,2015,69,12.0,Western Kentucky,106,,,235,,,,0,0.0,SO
+tj-mccollum-1,2016,,40,,,,1,0,,11.0,6-3,0,0,,,T.J. McCollum,,,3,,,,,tj-mccollum-1,,,LB,,,,,,,,,,,,0.0,,2016,45,4.0,Western Kentucky,85,,,235,,,,0,,JR
+tj-mccollum-1,2017,,26,,,,0,0,,9.0,6-3,0,0,,,T.J. McCollum,,,1,,,,,tj-mccollum-1,,,LB,,,,,,,,,,,,3.0,,2017,43,6.0,Purdue,69,,,235,,,,0,,SR
+tj-mccollum-1,Career,,104,,,,2,1,,,6-3,1,0,,,T.J. McCollum,,,7,,,,,tj-mccollum-1,,,LB,,,,,,,,,,,,6.0,,Career,163,22.0,Overall,267,,,235,,,,0,0.0,
+rolan-milligan-1,2014,,17,,,,0,0,,10.0,5-11,0,0,,,Rolan Milligan,,,6,,,,,rolan-milligan-1,,,CB,,,,,,,,,,,,2.0,,2014,37,4.0,UAB,54,,,198,,,,0,,JR
+rolan-milligan-1,Career,,17,,,,0,0,,,5-11,0,0,,,Rolan Milligan,,,6,,,,,rolan-milligan-1,,,CB,,,,,,,,,,,,2.0,,Career,37,4.0,UAB,54,,,198,,,,0,,
+jontavius-morris-1,2012,,11,,,,0,0,0.0,,6-2,,,,,Jontavius Morris,,,0,,,,,jontavius-morris-1,,,DL,,,,,,,,,,,,0.0,,2012,9,3.5,UAB,20,,,305,,,0.0,,,FR
+jontavius-morris-1,2013,,8,,,,0,0,,7.0,6-2,0.0,0.0,,,Jontavius Morris,,,0,,,,,jontavius-morris-1,,,DT,,,,,,,,,,,,0.0,,2013,6,0.0,UAB,14,,,305,,,,0.0,,SO
+jontavius-morris-1,2014,,10,,,,0,1,,12.0,6-2,0.0,0.0,,,Jontavius Morris,,,0,,,,,jontavius-morris-1,,,DT,,,,,,,,,,,,0.0,,2014,10,2.5,UAB,20,,,305,,,,0.0,,JR
+jontavius-morris-1,2015,,18,,,,0,1,,11.0,6-2,0.0,0.0,,,Jontavius Morris,,,3,,,,,jontavius-morris-1,,,DL,,,,,,,,,,,,2.0,,2015,16,5.0,Western Kentucky,34,,,305,,,,0.0,,SR
+jontavius-morris-1,Career,,47,,,,0,2,0.0,,6-2,0.0,0.0,,,Jontavius Morris,,,3,,,,,jontavius-morris-1,,,DL,,,,,,,,,,,,2.0,,Career,41,11.0,Overall,88,,,305,,,0.0,0.0,,
+dallas-noriega-1,2013,,0,,,,0,0,,1.0,6-0,0,0,,,Dallas Noriega,,,0,,,,,dallas-noriega-1,,,LS,,,,,,,,,,,,0.0,,2013,1,0.0,UAB,1,,,250,,,,0,,JR
+dallas-noriega-1,2014,,1,,,,0,0,,1.0,6-0,0,0,,,Dallas Noriega,,,0,,,,,dallas-noriega-1,,,LS,,,,,,,,,,,,0.0,,2014,0,0.0,UAB,1,,,250,,,,0,,SR
+dallas-noriega-1,Career,,1,,,,0,0,,,6-0,0,0,,,Dallas Noriega,,,0,,,,,dallas-noriega-1,,,LS,,,,,,,,,,,,0.0,,Career,1,0.0,UAB,2,,,250,,,,0,,
+jordan-petty-1,2013,,19,,,,1,1,,10.0,5-9,1,0,,,Jordan Petty,,,3,,,,,jordan-petty-1,,,C,,,,,,,,,,,,1.0,,2013,36,3.5,UAB,55,,,190,,,,0,0.0,FR
+jordan-petty-1,2014,,6,,,,0,0,,9.0,5-9,1,0,,,Jordan Petty,,,4,,,,,jordan-petty-1,,,CB,,,,,,,,,,,,0.0,,2014,22,0.0,UAB,28,,,190,,,,3,3.0,SO
+jordan-petty-1,2017,,7,,,,0,1,,10.0,5-9,0,0,,,Jordan Petty,,,1,,,,,jordan-petty-1,,,S,,,,,,,,,,,,1.0,,2017,19,1.0,UAB,26,,,190,,,,0,,JR
+jordan-petty-1,Career,,32,,,,1,2,,,5-9,2,0,,,Jordan Petty,,,8,,,,,jordan-petty-1,,,S,,,,,,,,,,,,2.0,,Career,77,4.5,UAB,109,,,190,,,,3,1.5,
+chris-rabb-1,2012,,6,,,,0,0,0.0,,6-0,,,,,Chris Rabb,,,0,,,,,chris-rabb-1,,,LB,,,,,,,,,,,,3.5,,2012,8,6.5,UAB,14,,,220,,,0.0,,,FR
+chris-rabb-1,2013,,13,,,,0,2,,10.0,6-0,0.0,0.0,,,Chris Rabb,,,0,,,,,chris-rabb-1,,,DE,,,,,,,,,,,,3.0,,2013,22,5.0,UAB,35,,,220,,,,0.0,,SO
+chris-rabb-1,2014,,0,,,,0,0,,7.0,6-0,0.0,0.0,,,Chris Rabb,,,0,,,,,chris-rabb-1,,,DE,,,,,,,,,,,,2.0,,2014,10,3.0,UAB,10,,,220,,,,0.0,,JR
+chris-rabb-1,Career,,19,,,,0,2,0.0,,6-0,0.0,0.0,,,Chris Rabb,,,0,,,,,chris-rabb-1,,,DE,,,,,,,,,,,,8.5,,Career,40,14.5,UAB,59,,,220,,,0.0,0.0,,
+diaheem-watkins-1,2011,,13,,,,0,0,,12.0,6-4,0.0,0.0,,,Diaheem Watkins,,,1,,,,,diaheem-watkins-1,,,DL,,,,,,,,,,,,1.5,,2011,18,2.5,UAB,31,,,258,,,,0.0,,FR
+diaheem-watkins-1,2012,,18,,,,0,0,0.0,,6-4,,,,,Diaheem Watkins,,,1,,,,,diaheem-watkins-1,,,DL,,,,,,,,,,,,1.5,,2012,14,4.0,UAB,32,,,258,,,0.0,,,SO
+diaheem-watkins-1,2013,,10,,,,0,0,,10.0,6-4,0.0,0.0,,,Diaheem Watkins,,,0,,,,,diaheem-watkins-1,,,DE,,,,,,,,,,,,5.5,,2013,27,7.5,UAB,37,,,258,,,,0.0,,JR
+diaheem-watkins-1,2014,,13,,,,2,0,,12.0,6-4,0.0,0.0,,,Diaheem Watkins,,,2,,,,,diaheem-watkins-1,,,DE,,,,,,,,,,,,10.0,,2014,33,12.5,UAB,46,,,258,,,,0.0,,SR
+diaheem-watkins-1,Career,,54,,,,2,0,0.0,,6-4,0.0,0.0,,,Diaheem Watkins,,,4,,,,,diaheem-watkins-1,,,DE,,,,,,,,,,,,18.5,,Career,92,26.5,UAB,146,,,258,,,0.0,0.0,,
+darius-williams-3,2014,,7,,0,0,0,0,,11.0,5-10,1,1,,0,Darius Williams,,,6,,,,,darius-williams-3,,6,CB,0,,,,,,,,,,,0.0,,2014,16,0.5,UAB,23,1,,180,,,,9,9.0,SO
+darius-williams-3,2017,,12,,0,0,0,1,,13.0,5-10,5,1,,0,Darius Williams,,,15,,,,,darius-williams-3,,6,CB,0,,,,,,,,,,,0.0,,2017,38,4.0,UAB,50,1,,180,,,,80,16.0,SR
+darius-williams-3,Career,,19,,0,0,0,1,,,5-10,6,2,,0,Darius Williams,,,21,,,,,darius-williams-3,,12,CB,0,,,,,,,,,,,0.0,,Career,54,4.5,UAB,73,2,,180,,,,89,14.8,
+daron-wright-1,2014,,1,,,,0,0,,1.0,6-2,0,0,,,Daron Wright,,,0,,,,,daron-wright-1,,,DE,,,,,,,,,,,,0.0,,2014,0,0.0,UAB,1,,,271,,,,0,,JR
+daron-wright-1,Career,,1,,,,0,0,,,6-2,0,0,,,Daron Wright,,,0,,,,,daron-wright-1,,,DE,,,,,,,,,,,,0.0,,Career,0,0.0,UAB,1,,,271,,,,0,,
